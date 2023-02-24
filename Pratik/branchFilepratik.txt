@@ -1,1 +1,4 @@
 This file waas created for branch-pratik.
+
+This is a random text file created to learn and demonstrate the usage of git and github.
+I added these lines to instantiate that there has been a change made in the codebase in my branch.
